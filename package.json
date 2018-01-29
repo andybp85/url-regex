@@ -32,6 +32,6 @@
     "xo": "*"
   },
   "xo": {
-    "esnext": true
+    "esnext": false
   }
 }

@@ -1,3 +1,5 @@
+# Forked because es6 was giving us problems buidling angular-cli 1.4.2
+
 # url-regex [![Build Status](http://img.shields.io/travis/kevva/url-regex.svg?style=flat)](https://travis-ci.org/kevva/url-regex)
 
 > Regular expression for matching URLs
